@@ -69,5 +69,5 @@ The presentation layer bypasses cluttered charts to deliver a single, high-densi
 ## 🚀 Corporate Consulting & Inquiries
 I specialize in engineering high-performance business intelligence architecture, optimizing complex data models, and establishing robust enterprise design patterns for scaling organizations.
 
-*   **Connect on LinkedIn:** [Insert Your LinkedIn Profile Link]
-*   **Corporate Inquiries & Architecture Strategy:** [Insert your corporate email address]
+*   **Connect on LinkedIn:** www.linkedin.com/in/guhamba-d-72788619
+*   **Corporate Inquiries & Architecture Strategy:** guhamba.d@gmail.com
